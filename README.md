@@ -18,6 +18,14 @@ Documentation plan: one short video per module milestone (not per session) poste
 Instagram/YouTube — a learning-in-public arc with real stakes, and a forcing function to keep
 going. Recording template at the bottom.
 
+## Live tracker
+
+**[Signal Path](https://claude.ai/code/artifact/4753e855-26b2-4930-8965-6e7de950dadb)** —
+day-to-day progress lives here, not in this file: a checklist per module, a notes field that
+autosaves as you type, a video log (date + link) for each milestone, and the recording template
+one click away. This README stays the canonical curriculum text; Signal Path is where actual
+task-by-task tracking happens.
+
 ## Tools, in progression order
 
 | Stage | Tool | Level | What it's for |
@@ -41,8 +49,7 @@ one LED, one threshold — before touching the real 5-point interface.
 **Milestone:** One sensor reliably driving one LED, explained out loud on camera in your own
 words (not read from a script — the explaining is the test of whether it's actually understood).
 
-**Log:**
-_(fill in as you go — what was obvious, what wasn't, what took longer than expected)_
+**Log:** tracked live in [Signal Path](https://claude.ai/code/artifact/4753e855-26b2-4930-8965-6e7de950dadb#module-1) — checklist, notes, video log for this module.
 
 ---
 
@@ -61,8 +68,7 @@ logic is sound.
 **Milestone:** One resolved open question from the Circulation build plan, settled in simulation
 before physical bench-testing.
 
-**Log:**
-_(fill in as you go)_
+**Log:** tracked live in [Signal Path](https://claude.ai/code/artifact/4753e855-26b2-4930-8965-6e7de950dadb#module-2) — checklist, notes, video log for this module.
 
 ---
 
@@ -80,8 +86,7 @@ MAX30102 read a usable pulse through a sealing, gripping palm. This is flagged i
 **Milestone:** A real answer (not a guess) to the palm-PPG question, recorded with actual
 waveform/readout evidence, not just "it seemed to work."
 
-**Log:**
-_(fill in as you go)_
+**Log:** tracked live in [Signal Path](https://claude.ai/code/artifact/4753e855-26b2-4930-8965-6e7de950dadb#module-3) — checklist, notes, video log for this module.
 
 ---
 
@@ -98,8 +103,7 @@ MAX30102 + LED ring, once Modules 2-3 have settled which sensors actually make t
 **Milestone:** A schematic you can explain node-by-node, even before it becomes a fabricated
 board.
 
-**Log:**
-_(fill in as you go)_
+**Log:** tracked live in [Signal Path](https://claude.ai/code/artifact/4753e855-26b2-4930-8965-6e7de950dadb#module-4) — checklist, notes, video log for this module.
 
 ---
 
@@ -117,7 +121,7 @@ public" premise:
 
 When this becomes a real workshop kit: each module's **Core** section becomes the public
 teaching content as-is; **Applied** sections become a worked case-study example (swap in a
-different project if teaching someone without Circulation context); **Log** sections stay
-private or become an instructor's-notes appendix. Don't blend personal reflection into Core
-sections as you fill them in — keep the separation clean from the start so extraction later is
-a copy-paste, not a rewrite.
+different project if teaching someone without Circulation context); the Signal Path **Log**
+entries (notes + video log) stay private or become an instructor's-notes appendix. Don't blend
+personal reflection into Core sections as you fill them in — keep the separation clean from the
+start so extraction later is a copy-paste, not a rewrite.
