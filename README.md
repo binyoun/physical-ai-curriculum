@@ -117,6 +117,47 @@ public" premise:
 3. **What surprised me (30-45s):** The one thing simulation/theory didn't prepare me for.
 4. **What's next:** Which module or open question comes after this.
 
+## PhD grounding — reading list
+
+Not part of the tool progression above — this is theoretical/methodological grounding for
+*Circulatory Sensing*, gathered 2026-08-21. Annotated so each entry earns its place rather than
+just being a name-drop.
+
+**Core theoretical anchor**
+- Kristina Höök, *Designing with the Body: Somaesthetic Interaction Design* (MIT Press, 2018).
+  Close to required reading — Höök is the leading HCI researcher on soma-based, felt-experience
+  design, and this book maps almost exactly the territory Circulation sits in: interaction
+  design grounded in bodily, felt experience rather than screen-based interaction. Gives the PhD
+  a real citation lineage instead of just "inspired by."
+
+**Practice-based research methodology**
+The field that legitimizes "the device and its documentation IS the research output," not just
+supporting material for a written thesis:
+- Robin Nelson, *Practice as Research in the Arts: Principles, Protocols, Pedagogies,
+  Resistances* (Palgrave Macmillan, 2013).
+- Estelle Barrett & Barbara Bolt (eds.), *Practice as Research: Approaches to Creative Arts
+  Enquiry* (I.B. Tauris, 2007/2010).
+Both are foundational texts in the Australian practice-led/practice-as-research tradition RMIT's
+own HDR culture belongs to. **Ask your supervisor whether RMIT HDR has its own
+recommended/required methodology reading or coursework** before treating this pair as
+sufficient — this list is a starting point, not confirmed against RMIT's actual requirements.
+
+**Bio-art / biofeedback lineage** — who Circulation is in conversation with, not required
+reading, but worth knowing before the paper draft:
+- Marco Donnarumma — biophysical/visceral performance work built on EMG and other physiological
+  signals; a practice-based PhD (Goldsmiths) covering similar ground of body-as-instrument.
+- Lisa Park — *Eunoia*, an EEG-controlled water installation translating internal physiological
+  state into external, visible movement.
+- Suzanne Dikker — *The Mutual Wave Machine* (with the Marina Abramović Institute), EEG
+  synchrony between two people made visible/audible in real time — close kin to Circulation's
+  triad-sync concept.
+
+**How to use this**: the core anchor and methodology pair are for grounding the *thesis
+argument* — cite them, build the framework's vocabulary from them. The bio-art lineage is for
+the *related-work section* — know these precedents well enough to say precisely how Circulation
+differs (negative-pressure cupping as the sensing mechanism, Five Elements as the mapping
+framework, 수지침 as the embodied grounding), not just that it's adjacent to them.
+
 ## Future shareable extraction
 
 When this becomes a real workshop kit: each module's **Core** section becomes the public
