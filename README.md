@@ -119,28 +119,50 @@ public" premise:
 
 ## PhD grounding — reading list
 
-Not part of the tool progression above — this is theoretical/methodological grounding for
-*Circulatory Sensing*, gathered 2026-08-21. Annotated so each entry earns its place rather than
-just being a name-drop.
+Not part of the tool progression above — this is theoretical grounding for *Circulatory
+Sensing*, rewritten 2026-08-21 around the actual 4-pillar framework already in the EOI/proposal
+drafts (`~/Desktop/PhD Drafts/Youn_Bin_PhD_CirculatorySensing_5p_2026-08.docx`) and target
+supervisor Dr. Nancy Mauro-Flude, rather than generic practice-research methodology. **Cross-check
+every title below against what's actually cited in the existing drafts before treating this as
+settled** — these are the standard/most-cited work by each named theorist, supplied because the
+memory of your framework names the theorist but not always the specific text.
 
-**Core theoretical anchor**
+**Pillar 1 — Cosmotechnics**
+- Yuk Hui, *The Question Concerning Technology in China: An Essay in Cosmotechnics* (Urbanomic,
+  2016). The source text for the pillar's name — technology as always-already cosmological, never
+  neutral. The direct philosophical license for treating 오행/Five Elements as a technical system,
+  not decoration.
+
+**Pillar 2 — Feminist STS + ANT**
+- Donna Haraway, *Staying with the Trouble: Making Kin in the Chthulucene* (Duke UP, 2016).
+  Closer to Circulation's relational/care framing than the more commonly cited *Cyborg
+  Manifesto* — kinship, multispecies entanglement, "staying with" rather than solving.
+- Bruno Latour, *Reassembling the Social: An Introduction to Actor-Network-Theory* (Oxford UP,
+  2005). The ANT primer — grounds the argument that cups, sensors, and participants form one
+  distributed network, not tool-and-user.
+
+**Pillar 3 — Inter-Asia Cultural Studies**
+- Kuan-Hsing Chen, *Asia as Method: Toward Deimperialization* (Duke UP, 2010).
+- Arjun Appadurai, *Modernity at Large: Cultural Dimensions of Globalization* (U of Minnesota
+  Press, 1996).
+
+**Pillar 4 — Somatic Epistemology**
+- Maurice Merleau-Ponty, *Phenomenology of Perception* (1945; Routledge translation 2012).
+- Sarah Pink, *Doing Sensory Ethnography* (Sage, 2009).
+- Richard Shusterman, *Body Consciousness: A Philosophy of Mindfulness and Somaesthetics*
+  (Cambridge UP, 2008).
 - Kristina Höök, *Designing with the Body: Somaesthetic Interaction Design* (MIT Press, 2018).
-  Close to required reading — Höök is the leading HCI researcher on soma-based, felt-experience
-  design, and this book maps almost exactly the territory Circulation sits in: interaction
-  design grounded in bodily, felt experience rather than screen-based interaction. Gives the PhD
-  a real citation lineage instead of just "inspired by."
+  The contemporary HCI bridge from this pillar's philosophy straight into interaction design —
+  closest thing to an actual design-methodology text for Circulation itself, not just theory.
 
-**Practice-based research methodology**
-The field that legitimizes "the device and its documentation IS the research output," not just
-supporting material for a written thesis:
-- Robin Nelson, *Practice as Research in the Arts: Principles, Protocols, Pedagogies,
-  Resistances* (Palgrave Macmillan, 2013).
-- Estelle Barrett & Barbara Bolt (eds.), *Practice as Research: Approaches to Creative Arts
-  Enquiry* (I.B. Tauris, 2007/2010).
-Both are foundational texts in the Australian practice-led/practice-as-research tradition RMIT's
-own HDR culture belongs to. **Ask your supervisor whether RMIT HDR has its own
-recommended/required methodology reading or coursework** before treating this pair as
-sufficient — this list is a starting point, not confirmed against RMIT's actual requirements.
+**Nancy Mauro-Flude's territory** — read toward the supervisor, not just the framework. Her
+specific focus (permacomputing, AI disalienation, decolonising digital culturescapes, espX) isn't
+something to guess a canonical secondary source for:
+- Pull her own published work directly from her RMIT profile / espX, and read it before your
+  next supervisor contact.
+- permacomputing.net — the loose manifesto/community texts around low-impact, resilient
+  computing. Worth reading as the movement her practice sits inside, even before finding her own
+  specific writing on it.
 
 **Bio-art / biofeedback lineage** — who Circulation is in conversation with, not required
 reading, but worth knowing before the paper draft:
@@ -152,9 +174,10 @@ reading, but worth knowing before the paper draft:
   synchrony between two people made visible/audible in real time — close kin to Circulation's
   triad-sync concept.
 
-**How to use this**: the core anchor and methodology pair are for grounding the *thesis
-argument* — cite them, build the framework's vocabulary from them. The bio-art lineage is for
-the *related-work section* — know these precedents well enough to say precisely how Circulation
+**How to use this**: the four pillars are for the *thesis argument itself* — cite them, build
+the framework's vocabulary from them. Nancy's territory is for *speaking her language* in
+supervisor meetings and the eventual proposal defense. The bio-art lineage is for the
+*related-work section* — know these precedents well enough to say precisely how Circulation
 differs (negative-pressure cupping as the sensing mechanism, Five Elements as the mapping
 framework, 수지침 as the embodied grounding), not just that it's adjacent to them.
 
