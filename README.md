@@ -120,40 +120,57 @@ public" premise:
 ## PhD grounding — reading list
 
 Not part of the tool progression above — this is theoretical grounding for *Circulatory
-Sensing*, rewritten 2026-08-21 around the actual 4-pillar framework already in the EOI/proposal
-drafts (`~/Desktop/PhD Drafts/Youn_Bin_PhD_CirculatorySensing_5p_2026-08.docx`) and target
-supervisor Dr. Nancy Mauro-Flude, rather than generic practice-research methodology. **Cross-check
-every title below against what's actually cited in the existing drafts before treating this as
-settled** — these are the standard/most-cited work by each named theorist, supplied because the
-memory of your framework names the theorist but not always the specific text.
+Sensing*. Rewritten 2026-08-21, this time checked directly against the actual bibliography in
+`~/Desktop/PhD Drafts/Youn_Bin_PhD_CirculatorySensing_5p_2026-08.docx` (not guessed from theorist
+names). Anything marked **[not yet cited]** is a suggestion, not something already in the
+proposal — don't let those two categories blur.
 
 **Pillar 1 — Cosmotechnics**
 - Yuk Hui, *The Question Concerning Technology in China: An Essay in Cosmotechnics* (Urbanomic,
   2016). The source text for the pillar's name — technology as always-already cosmological, never
-  neutral. The direct philosophical license for treating 오행/Five Elements as a technical system,
-  not decoration.
+  neutral.
+- Yuk Hui, *Recursivity and Contingency* (Rowman & Littlefield, 2019). Also cited — the follow-up
+  extending the cosmotechnics argument.
+- Shigehisa Kuriyama, *The Expressiveness of the Body and the Divergence of Greco-Roman and
+  Chinese Medicine* (Zone Books, 1999). Load-bearing, not peripheral — this is what actually
+  supplies skin-land's historical ground (Chinese medicine reading the body through surface,
+  skin colour, and pulse; Greek medicine cutting inside). Read this one properly, not just cite it.
 
 **Pillar 2 — Feminist STS + ANT**
-- Donna Haraway, *Staying with the Trouble: Making Kin in the Chthulucene* (Duke UP, 2016).
-  Closer to Circulation's relational/care framing than the more commonly cited *Cyborg
-  Manifesto* — kinship, multispecies entanglement, "staying with" rather than solving.
-- Bruno Latour, *Reassembling the Social: An Introduction to Actor-Network-Theory* (Oxford UP,
-  2005). The ANT primer — grounds the argument that cups, sensors, and participants form one
-  distributed network, not tool-and-user.
+- Donna Haraway, "Situated Knowledges", *Feminist Studies* vol. 14 no. 3, 1988, pp. 575–599. The
+  actual cited Haraway text — grounds the auto-ethnographic position (your own 수지침/사물놀이/명리학
+  formation) as the primary research instrument, not just personal background.
+- Lucy Suchman, *Human-Machine Reconfigurations* (2nd edn, Cambridge UP, 2007). This is the
+  proposal's actual ANT-adjacent citation — not Latour. Argues mainstream HCI is built on a
+  grammar of individual control; Circulation designs from a relational grammar instead.
+- María Puig de la Bellacasa, *Matters of Care: Speculative Ethics in More Than Human Worlds*
+  (U of Minnesota Press, 2017). Central, not supplementary — this is where "care as relational
+  maintenance" replacing "spiritual quotient" actually comes from.
 
 **Pillar 3 — Inter-Asia Cultural Studies**
-- Kuan-Hsing Chen, *Asia as Method: Toward Deimperialization* (Duke UP, 2010).
-- Arjun Appadurai, *Modernity at Large: Cultural Dimensions of Globalization* (U of Minnesota
-  Press, 1996).
+- Kuan-Hsing Chen, *Asia as Method: Toward Deimperialization* (Duke UP, 2010). Carries this
+  pillar alone in the actual draft — Appadurai is not cited; don't add him without a reason.
 
 **Pillar 4 — Somatic Epistemology**
 - Maurice Merleau-Ponty, *Phenomenology of Perception* (1945; Routledge translation 2012).
-- Sarah Pink, *Doing Sensory Ethnography* (Sage, 2009).
+- Sarah Pink, *Doing Sensory Ethnography* (2nd edn, Sage, 2015).
 - Richard Shusterman, *Body Consciousness: A Philosophy of Mindfulness and Somaesthetics*
   (Cambridge UP, 2008).
 - Kristina Höök, *Designing with the Body: Somaesthetic Interaction Design* (MIT Press, 2018).
-  The contemporary HCI bridge from this pillar's philosophy straight into interaction design —
-  closest thing to an actual design-methodology text for Circulation itself, not just theory.
+  **[not yet cited]** — genuinely worth adding, the contemporary HCI bridge from this pillar's
+  philosophy into interaction design specifically, but it's my suggestion, not yet in the draft.
+
+**Methodology (actually cited, not the generic version I suggested first time round)**
+- Graeme Sullivan, *Art Practice as Research* (2nd edn, Sage, 2010).
+- Estelle Barrett & Barbara Bolt (eds), *Practice as Research* (I.B. Tauris, 2010).
+- Christopher Frayling, "Research in Art and Design", *RCA Research Papers* vol. 1 no. 1, 1993.
+- Carolyn Ellis & Arthur Bochner, "Autoethnography, Personal Narrative, Reflexivity", in
+  *Handbook of Qualitative Research* (2nd edn, Sage, 2000), pp. 733–768.
+
+**Also in the reference list, less load-bearing in the body text I read** — worth knowing exist,
+lower priority to read cover-to-cover:
+- Tim Ingold, *Being Alive* (Routledge, 2011).
+- Nicolas Bourriaud, *Relational Aesthetics* (Les presses du réel, 1998/2002).
 
 **Nancy Mauro-Flude's territory** — read toward the supervisor, not just the framework. Her
 specific focus (permacomputing, AI disalienation, decolonising digital culturescapes, espX) isn't
