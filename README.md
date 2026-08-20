@@ -65,6 +65,8 @@ virtual ESP32 + `chip-max30102`. Open question to resolve here first, before it 
 part: does `checkForBeat()` ever actually fire in the sim? Confirm before assuming the firmware
 logic is sound.
 
+**Reference:** [SparkFun MAX3010x hookup guide](https://learn.sparkfun.com/tutorials/max30105-particle-and-pulse-ox-sensor-hookup-guide) — `checkForBeat()` comes from SparkFun's MAX3010x library, so this is closer to primary documentation than a tutorial. Read it before trusting or distrusting what the Wokwi sim shows you.
+
 **Milestone:** One resolved open question from the Circulation build plan, settled in simulation
 before physical bench-testing.
 
@@ -82,6 +84,8 @@ here (2026-07ish) — this module formalizes what you already started.
 **Applied:** The actual bench experiment Circulation needs regardless of the curriculum: does
 MAX30102 read a usable pulse through a sealing, gripping palm. This is flagged in
 `hardware/TECHNICIAN_BRIEF.txt` as the single biggest open hardware question in the project.
+
+**Reference:** [SparkFun MAX3010x hookup guide](https://learn.sparkfun.com/tutorials/max30105-particle-and-pulse-ox-sensor-hookup-guide) again — the "Sensor Placement" and signal-quality notes are the closest thing to documentation for this exact bench test. Also [learn.adafruit.com](https://learn.adafruit.com) for BMP280 hookup guides if the pressure side needs the same treatment.
 
 **Milestone:** A real answer (not a guess) to the palm-PPG question, recorded with actual
 waveform/readout evidence, not just "it seemed to work."
